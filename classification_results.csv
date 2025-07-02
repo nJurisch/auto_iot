@@ -1,0 +1,10 @@
+Features,Model,F1-Train,F1-Test
+mean(),Logistic Regression,0.0,0.0
+mean(),kNN,0.12,0.02
+mean(),Decision Tree,1.0,0.11
+"mean(), std()",Logistic Regression,0.0,0.0
+"mean(), std()",kNN,0.12,0.03
+"mean(), std()",Decision Tree,1.0,0.11
+"mean(), lag_1",Logistic Regression,0.0,0.0
+"mean(), lag_1",kNN,0.13,0.04
+"mean(), lag_1",Decision Tree,1.0,0.12
