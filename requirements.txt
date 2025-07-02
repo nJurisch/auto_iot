@@ -1,0 +1,6 @@
+paho-mqtt
+pandas
+matplotlib
+scikit-learn
+tinydb
+tk
